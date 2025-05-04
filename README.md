@@ -103,4 +103,4 @@ Contribuições são sempre bem-vindas!
 
 ## 💡 Autor
 
-Desenvolvido por [Seu Nome](https://github.com/rafaelmoreirax) ☀️
+Desenvolvido por [Rafael Moreira](https://github.com/rafaelmoreirax) ☀️
