@@ -50,7 +50,7 @@ Tempo em São Paulo:
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/weather-app-python.git
+git clone https://github.com/rafaelmoreirax/weather-app-python.git
 cd weather-app-python
 ```
 
